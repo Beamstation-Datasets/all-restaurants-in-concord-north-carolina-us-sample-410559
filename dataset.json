@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Detailed restaurant dataset for Concord, North Carolina with a population of over 105k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Concord, North Carolina, US",
-  "export_job_id": "f6557865-1c7a-47fe-86e3-c82265fa3356",
+  "export_job_id": "382d8674-39fc-456d-b90b-b1308207d6dd",
   "github_org": "Beamstation-Datasets",
   "id_short": 410559,
   "location_name": "Concord",
   "location_type": "city",
   "repo_name": "all-restaurants-in-concord-north-carolina-us-sample-410559",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/410559/beamstation_410559_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_pct": 9.84,
+  "sample_pct": 9.86,
   "sample_records": 36,
-  "sample_sha256": "d9c40e5d05e45d0e96b9791dd269e07fcb125d25c14a9059a64c51873a268eea",
-  "sample_size_bytes": 147369,
-  "total_records": 366,
-  "updated_at": "2026-04-07T13:33:04.348390+00:00"
+  "sample_sha256": "ef46652a4c700b587045117b3edcb5b9a1225dad7e2fbb6d3a37951f2e62f05a",
+  "sample_size_bytes": 152291,
+  "total_records": 365,
+  "updated_at": "2026-04-14T20:44:18.732237+00:00"
 }
