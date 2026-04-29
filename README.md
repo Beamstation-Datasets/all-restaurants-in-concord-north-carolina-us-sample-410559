@@ -1,6 +1,6 @@
 # All Restaurants in Concord, North Carolina, US
 
-> Free BeamStation sample export with 28 rows and masked direct-contact fields.
+> Free BeamStation sample export with 40 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `410559` |
 | Location | Concord |
 | Category | Restaurants |
-| Full dataset size | 286 records |
-| Free sample size | 28 records (9.79%) |
-| Last export | 2026-04-21T23:01:47.471374+00:00 |
+| Full dataset size | 402 records |
+| Free sample size | 40 records (9.95%) |
+| Last export | 2026-04-29T02:05:06.720320+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-concord-north-carolina-us-sample-410559/releases/download/sample-latest/beamstation_410559_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
