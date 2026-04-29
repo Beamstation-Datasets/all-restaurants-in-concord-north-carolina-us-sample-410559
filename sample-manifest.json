@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0c237612-3e45-4839-8cde-d6d9133c1866",
+  "export_job_id": "a2c9e5bd-11b0-44db-b4d6-a433aa8c2383",
   "id_short": 410559,
-  "published_at": "2026-04-22T07:28:24Z",
+  "published_at": "2026-04-29T07:37:26Z",
   "repo_name": "all-restaurants-in-concord-north-carolina-us-sample-410559",
   "sample_asset_name": "beamstation_410559_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/410559/beamstation_410559_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_records": 28,
-  "sample_sha256": "1e2cf27e7e3e778b0cb698e802eaa38ef3cfb62ddd77cea4af6cba25c0be30cf",
-  "sample_size_bytes": 126415,
-  "total_records": 286
+  "sample_records": 40,
+  "sample_sha256": "56b6861d2219a69b0b0273a9dc8174a4a5d7c3e9acd181f917b7076c2e5de530",
+  "sample_size_bytes": 137625,
+  "total_records": 402
 }
